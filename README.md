@@ -17,8 +17,7 @@ O foco do projeto é a tela **Meus Treinos**, que apresenta os treinos do aluno 
 - [Fluxo de navegação](#-fluxo-de-navegação)
 - [Ferramentas utilizadas](#-ferramentas-utilizadas)
 - [Objetivos de aprendizagem](#-objetivos-de-aprendizagem)
-- [Links](#-links)
-- [Autor](#-autor)
+
 
 ---
 
