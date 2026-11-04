@@ -112,18 +112,4 @@ Com este desafio foi possível:
 - Aplicar conceitos de usabilidade, como organização de conteúdo e navegação intuitiva;
 - Documentar objetivos e decisões de forma clara e organizada no GitHub.
 
----
 
-## 🔗 Links
-
-- **Protótipo no Figma:** [acessar protótipo](COLOQUE_AQUI_O_LINK_DO_FIGMA)
-- **Desafio:** [DIO](https://www.dio.me/)
-
----
-
-## 👤 Autor
-
-Feito por **SEU NOME** como parte da formação de UX/UI da DIO.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](COLOQUE_AQUI_SEU_GITHUB)
